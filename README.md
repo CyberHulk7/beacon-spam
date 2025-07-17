@@ -1,4 +1,4 @@
-# Beacon Spam using ESP8266
+# Beacon Spam using ESP32
 
 This project demonstrates how to send custom Wi-Fi beacon frames using an ESP8266 board to simulate fake access points. It can be used for **educational**, **penetration testing**, or **Wi-Fi security awareness** purposes.
 
@@ -19,7 +19,7 @@ This project demonstrates how to send custom Wi-Fi beacon frames using an ESP826
 
 ## 🚀 Getting Started
 
-1. Connect your ESP8266 to your PC.
+1. Connect your ESP32 to your PC.
 2. Open `Beacon_Spam.ino` in the Arduino IDE.
 3. Install necessary libraries if prompted.
 4. Upload the sketch to the ESP8266.
